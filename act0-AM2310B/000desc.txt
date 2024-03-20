@@ -1,0 +1,8 @@
+[JAPANESE]
+TITLE=AM2310B/DHT20 温湿度計
+DESC=AM2310B/DHT20 温湿度計
+URL=jp/MWX/content/act_samples/act_opening.html
+[ENGLISH]
+TITLE=AM2310B/DHT20 Thermo-hygrometer
+DESC=AM2310B/DHT20 Thermo-hygrometer
+URL=en/MWX/content/act_samples/act_opening.html

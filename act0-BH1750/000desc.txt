@@ -1,0 +1,8 @@
+[JAPANESE]
+TITLE=I2Cデバイス BH1750/SSD1306 テスト
+DESC=BH1750/SSD1306で照度計を作ってみるテスト。
+URL=jp/MWX/content/act_samples/act_opening.html
+[ENGLISH]
+TITLE=I2C device BH1750/SSD1306 test
+DESC=A test of making an illuminance meter with BH1750/SSD1306.
+URL=en/MWX/content/act_samples/act_opening.html
